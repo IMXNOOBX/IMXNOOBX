@@ -1,6 +1,6 @@
 [![xnoobx](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ) 
 <p>
-  <h1 align="center"><b>Hii!!! im noob</b></h1>
+  <h1 align="center"><b>Hi!! im noob</b></h1>
 </p>
 
 <p>
@@ -22,8 +22,9 @@
 - 🥅 2021 Goals: Learn as much as posible!!
 
 <br>
+<br>
 
-## Now Active Projects: 
+## Tools and more: 
 
 <img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Visual Studio" width="35px" src="https://github.com/IMXNOOBX/IMXNOOBX/blob/main/vs.png" />
