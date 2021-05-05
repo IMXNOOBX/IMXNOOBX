@@ -1,4 +1,4 @@
-[![xnoobx](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ) 
+[![xnoobx](https://cdn.discordapp.com/attachments/760822494419484672/839565660190408704/PicsArt_08-20-11.03.26.png)](https://www.youtube.com/watch?v=dQw4w9WgXcQ) 
 <p>
   <h1 align="center"><b>Hi!! im noob</b></h1>
 </p>
