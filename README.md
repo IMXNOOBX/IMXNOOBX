@@ -31,4 +31,4 @@
 <img align="left" alt="C#" width="35px" src="https://github.com/IMXNOOBX/IMXNOOBX/blob/main/csharp.png" />
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?IMXNOOBX=anuraghazra&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IMXNOOBX&show_icons=true&theme=dracula)
