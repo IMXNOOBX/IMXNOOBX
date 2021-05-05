@@ -22,7 +22,6 @@
 - 🥅 2021 Goals: Learn as much as posible!!
 
 <br>
-
 ### Now Active Projects: 
 
 <img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -30,7 +29,8 @@
 <img align="left" alt="Node.js" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="C#" width="35px" src="https://github.com/IMXNOOBX/IMXNOOBX/blob/main/csharp.png" />
 <br>
-
+<br>
+<br>
 
 <a>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=IMXNOOBX&show_icons=true&theme=dracula" />
@@ -38,4 +38,3 @@
 <a>
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IMXNOOBX&layout=compact" />
 </a>
-<!---![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IMXNOOBX&show_icons=true&theme=dracula)--->
