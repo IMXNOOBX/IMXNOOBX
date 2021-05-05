@@ -1,4 +1,3 @@
-### Hi there 👋
 [![xnoobx](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ) 
 <p>
   <h1 align="center"><b>Hii!!! im noob</b></h1>
