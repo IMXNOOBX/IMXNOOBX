@@ -36,6 +36,6 @@
 <br>
 
 <a>
-  <img src="https://github-readme-stats.vercel.app/api?username=IMXNOOBX&show_icons=true&theme=dracula" />
+  <img align="mid" src="https://github-readme-stats.vercel.app/api?username=IMXNOOBX&show_icons=true&theme=dracula" />
 </a>
 <br>
