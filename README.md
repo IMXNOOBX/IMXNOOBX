@@ -10,6 +10,9 @@
 <p align="center">
     <img align="center" alt="wellcome to" src="https://gpvc.arturio.dev/IMXNOOBX" />
 </p>
+<p align="center">
+    <img align="center" alt="wellcome to" src="https://discord.c99.nl/widget/theme-3/652969127756955658.png" />
+</p>
 
 <br>
 
