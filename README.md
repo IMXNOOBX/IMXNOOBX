@@ -24,11 +24,11 @@
 - 👯 I'm in the way to learn c++, c#, python, nodejs...
 - 🥅 2021 Goals: Learn as much as posible!! ☑️
 - 🔺 2022 Goals: Automatize all my social media accounts! 
-     - Discord: Bot/SelfBot| 0% | - | node.js
-     - Steam: Working... | 45% | - Base done | node.js
-     - Instagram: No Idea | 0% | - | node.js
-     - Twitter: No Idea | 0% | - | node.js
-     - GitHub: No Idea | 0% | - | node.js
+     - Discord:   Bot/SelfBot | 0% | -          | node.js
+     - Steam:     Working...  | 45% | Base done | node.js
+     - Instagram: No Idea     | 0% | -          | node.js
+     - Twitter:   No Idea     | 0% | -          | node.js
+     - GitHub:    No Idea     | 0% | -          | node.js
 
 <br>
 <br>
