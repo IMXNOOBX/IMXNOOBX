@@ -39,15 +39,15 @@
 
 <img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Visual Studio" width="35px" src="https://github.com/IMXNOOBX/IMXNOOBX/blob/main/vs.png" />
-<img align="left" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="C#" width="30px" src="https://github.com/IMXNOOBX/IMXNOOBX/blob/main/csharp.png" />
+<img align="left" alt="Node.js" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="C#" width="35px" src="https://github.com/IMXNOOBX/IMXNOOBX/blob/main/csharp.png" />
 <br>
 <br>
 <br>
 <br>
 
 <a>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=IMXNOOBX&show_icons=true&hide_border=true&theme=tokyonight">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IMXNOOBX&theme=tokyonight&layout=compact&hide=batchfile">
+  <img align="left" width="300" src="https://github-readme-stats.vercel.app/api?username=IMXNOOBX&show_icons=true&hide_border=true&theme=tokyonight">
+  <img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IMXNOOBX&theme=tokyonight&layout=compact&hide=batchfile">
 </a>
 <br>
