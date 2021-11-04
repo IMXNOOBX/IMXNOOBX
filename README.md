@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-    <img align="center" alt="wellcome to" src="https://komarev.com/ghpvc/?username=IMXNOOBX&color=blueviolet&style=flat" />
+    <img align="center" alt="wellcome to" src="https://komarev.com/ghpvc/?username=IMXNOOBX&color=red&style=flat" />
 </p>
 <p align="center">
     <img align="center" alt="wellcome to" src="https://discord.c99.nl/widget/theme-3/652969127756955658.png" />
