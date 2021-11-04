@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-    <img align="center" alt="wellcome to" src="https://gpvc.arturio.dev/IMXNOOBX" />
+    <img align="center" alt="wellcome to" src="https://komarev.com/ghpvc/?username=IMXNOOBX&color=blueviolet&style=flat" />
 </p>
 <p align="center">
     <img align="center" alt="wellcome to" src="https://discord.c99.nl/widget/theme-3/652969127756955658.png" />
@@ -39,8 +39,8 @@
 
 <img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Visual Studio" width="35px" src="https://github.com/IMXNOOBX/IMXNOOBX/blob/main/vs.png" />
-<img align="left" alt="Node.js" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="C#" width="35px" src="https://github.com/IMXNOOBX/IMXNOOBX/blob/main/csharp.png" />
+<img align="left" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="C#" width="30px" src="https://github.com/IMXNOOBX/IMXNOOBX/blob/main/csharp.png" />
 <br>
 <br>
 <br>
