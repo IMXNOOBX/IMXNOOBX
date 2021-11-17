@@ -46,11 +46,11 @@
 
 ## Statistics: 
 
-<img align="left" alt="Visual Studio Code" width="35px" src="https://img.shields.io/badge/-Visual%20Studio%20Code-blue?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"/>
-<img align="left" alt="Visual Studio" width="35px" src="https://img.shields.io/badge/-Visual%20Studio-blue?style=for-the-badge&logo=Visual%20Studio&logoColor=purple"/>
-<img align="left" alt="Node.js" width="35px" src="https://img.shields.io/badge/-node.js-blue?style=for-the-badge&logo=javascript&logoColor=yellow"/>
-<img align="left" alt="CSharp" width="35px" src="https://img.shields.io/badge/C%20Sharp-blue?style=for-the-badge&logo=C%20Sharp&logoColor=white"/>
-<img align="left" alt="Go" width="35px" src="https://img.shields.io/badge/Go-blue?style=for-the-badge&logo=Go&logoColor=white"/>
+<img align="left" alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-blue?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"/>
+<img align="left" alt="Visual Studio" src="https://img.shields.io/badge/-Visual%20Studio-blue?style=for-the-badge&logo=Visual%20Studio&logoColor=purple"/>
+<img align="left" alt="Node.js" src="https://img.shields.io/badge/-node.js-blue?style=for-the-badge&logo=javascript&logoColor=yellow"/>
+<img align="left" alt="CSharp" src="https://img.shields.io/badge/C%20Sharp-blue?style=for-the-badge&logo=C%20Sharp&logoColor=white"/>
+<img align="left" alt="Go" src="https://img.shields.io/badge/Go-blue?style=for-the-badge&logo=Go&logoColor=white"/>
 <br>
 <br>
 <br>
