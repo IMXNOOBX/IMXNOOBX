@@ -27,11 +27,11 @@
 - 🥅 2021 Goals: Learn as much as posible!! ☑️
 - 🔺 2022 Goals: Automatize all my social media accounts! 
 ```
-     - Discord:   Bot/SelfBot | 0% | -          | node.js
-     - Steam:     Working...  | 45% | Base done | node.js
-     - Instagram: No Idea     | 0% | -          | node.js
-     - Twitter:   No Idea     | 0% | -          | node.js
-     - GitHub:    No Idea     | 0% | -          | node.js
+     - Discord:   SelfBot     |  0% | node.js
+     - Steam:     Working...  | 75% | node.js
+     - Instagram: Idea        |  0% | node.js
+     - Twitter:   Idea        |  0% | node.js
+     - GitHub:    No Idea     |  0% | node.js
 ```
 
 <br>
