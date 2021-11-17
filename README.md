@@ -11,8 +11,9 @@
     <img align="center" alt="wellcome to" src="https://komarev.com/ghpvc/?username=IMXNOOBX&color=red&style=flat" />
 </p>
 
+<p align="center">
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=omiq07qfvusohy44bcpffdyua&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=omiq07qfvusohy44bcpffdyua&redirect=true)
-<p align="right">
     <img align="center" alt="wellcome to" src="https://discord.c99.nl/widget/theme-3/652969127756955658.png" />
 </p>
 
