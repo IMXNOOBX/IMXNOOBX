@@ -1,4 +1,4 @@
-[![xnoobx](https://cdn.discordapp.com/attachments/760822494419484672/839565660190408704/PicsArt_08-20-11.03.26.png)](https://www.youtube.com/watch?v=dQw4w9WgXcQ) 
+[![xnoobx](https://cdn.discordapp.com/attachments/760822494419484672/839565660190408704/PicsArt_08-20-11.03.26.png)](https://steamcommunity.com/id/IMXNOOBX/) 
 <p>
   <h1 align="center"><b>Hi!! im noob</b></h1>
 </p>
@@ -38,18 +38,19 @@
 <br>
 
 ### Spotify Playing 🎧
-<p align="center">
+<a align="center">
 
   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=omiq07qfvusohy44bcpffdyua&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=omiq07qfvusohy44bcpffdyua&redirect=true)
 
-</p>
+</a>
 
 ## Statistics: 
 
-<img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Visual Studio" width="35px" src="https://github.com/IMXNOOBX/IMXNOOBX/blob/main/vs.png" />
-<img align="left" alt="Node.js" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="C#" width="35px" src="https://github.com/IMXNOOBX/IMXNOOBX/blob/main/csharp.png" />
+<img align="left" alt="Visual Studio Code" width="35px" src="https://img.shields.io/badge/-Visual%20Studio%20Code-blue?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"/>
+<img align="left" alt="Visual Studio" width="35px" src="https://img.shields.io/badge/-Visual%20Studio-blue?style=for-the-badge&logo=Visual%20Studio&logoColor=purple"/>
+<img align="left" alt="Node.js" width="35px" src="https://img.shields.io/badge/-node.js-blue?style=for-the-badge&logo=javascript&logoColor=yellow"/>
+<img align="left" alt="CSharp" width="35px" src="https://img.shields.io/badge/C%20Sharp-blue?style=for-the-badge&logo=C%20Sharp&logoColor=white"/>
+<img align="left" alt="Go" width="35px" src="https://img.shields.io/badge/Go-blue?style=for-the-badge&logo=Go&logoColor=white"/>
 <br>
 <br>
 <br>
