@@ -27,11 +27,10 @@
 - 🥅 2021 Goals: Learn as much as posible!! ☑️
 - 🔺 2022 Goals: Automatize all my social media accounts! 
 ```
-     - Discord:   SelfBot     |  0% | node.js
-     - Steam:     Working...  | 75% | node.js
-     - Instagram: Idea        |  0% | node.js
-     - Twitter:   Idea        |  0% | node.js
-     - GitHub:    No Idea     |  0% | node.js
+     - Discord:   Unreleased  |  90%   | node.js
+     - Steam:     Steammy     | 100%   | node.js
+     - Twitter:   Twitty      |  100%  | node.js
+     - GitHub:    Twitty      |  100%  | node.js
 ```
 
 <br>
@@ -45,13 +44,13 @@
 
 ## Misc: 
 
-<img align="left" alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-blue?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"/>
-<img align="left" alt="Visual Studio" src="https://img.shields.io/badge/-Visual%20Studio-blue?style=for-the-badge&logo=Visual%20Studio&logoColor=purple"/>
-<img align="left" alt="Node.js" src="https://img.shields.io/badge/-node.js-blue?style=for-the-badge&logo=javascript&logoColor=yellow"/>
-<img align="left" alt="CSharp" src="https://img.shields.io/badge/C%20Sharp-blue?style=for-the-badge&logo=C%20Sharp&logoColor=white"/>
-<img align="left" alt="Go" src="https://img.shields.io/badge/Go-blue?style=for-the-badge&logo=Go&logoColor=white"/>
-<br>
-<br>
+<img align="left" alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-blue?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"/><br>
+<img align="left" alt="Visual Studio" src="https://img.shields.io/badge/-Visual%20Studio-blue?style=for-the-badge&logo=Visual%20Studio&logoColor=purple"/><br>
+<img align="left" alt="intellij" src="https://img.shields.io/badge/-Intellij%20IDA-blue?style=for-the-badge&logo=Intellij=white"/><br>
+<img align="left" alt="Node.js" src="https://img.shields.io/badge/-node.js-blue?style=for-the-badge&logo=javascript&logoColor=yellow"/><br>
+<img align="left" alt="CSharp" src="https://img.shields.io/badge/C%20Sharp-blue?style=for-the-badge&logo=C%20Sharp&logoColor=white"/><br>
+<img align="left" alt="cpp" src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=Cpp&logoColor=white"/><br>
+<img align="left" alt="java" src="https://img.shields.io/badge/Java-blue?style=for-the-badge&logo=Java&logoColor=white"/><br>
 <br>
 <br>
 
