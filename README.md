@@ -22,7 +22,7 @@
 
 ### I'm a little noob trying to learn
 - 🔭 I'm currently learning :grin:
-- 🌱 I'm currently studing 
+- 🌱 I'm currently studying 
 - 👯 I'm in the way to learn c++, c#, python, nodejs...
 - 🥅 2021 Goals: Learn as much as posible!! ☑️
 - 🔺 2022 Goals: Automatize all my social media accounts! 
