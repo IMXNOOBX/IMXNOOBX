@@ -1,61 +1,85 @@
-[![xnoobx](https://cdn.discordapp.com/attachments/760822494419484672/839565660190408704/PicsArt_08-20-11.03.26.png)](https://steamcommunity.com/id/IMXNOOBX/) 
-<p>
-  <h1 align="center"><b>Hi!! im noob</b></h1>
-</p>
-
-<p>
-  <h4 align="center"><b>"I'm here ready to learn <3"</b></h4>
-</p>
-
-<p align="center">
-    <img align="center" alt="wellcome to" src="https://komarev.com/ghpvc/?username=IMXNOOBX&color=red&style=flat" />
-</p>
-
-<p align="center">
-    <img align="center" alt="wellcome to" src="https://discord.c99.nl/widget/theme-3/652969127756955658.png" />
-</p>
+[![imxnoobx](https://cdn.discordapp.com/attachments/760822494419484672/1157331779196301352/nubsisito-alargao.png)](https://imxnoobx.com) 
 
 
-<br>
+#### "I'm here ready to learn <3"
 
-<img align="right" height="270px" alt="GIF" src="https://github.com/IMXNOOBX/IMXNOOBX/blob/main/miau.gif" />
+### About Me
 
-### I'm a little noob trying to learn
-- 🔭 I'm currently learning :grin:
-- 🌱 I'm currently studying 
-- 👯 I'm in the way to learn c++, c#, python, nodejs...
-- 🥅 2021 Goals: Learn as much as posible!! ☑️
-- 🔺 2022 Goals: Automatize all my social media accounts! 
+👋 Hi there! I'm a passionate learner and technology enthusiast, always eager to explore new horizons.
+
+🌱 **Currently Learning**: I'm on a journey to game hacking and , im interested in game hacking and learning.
+
+🚀 **Goals**:
+
+- **2021 Goals**: Achieved! I've been dedicated to continuous learning and have made significant progress.
+- **2022 Goals**: My aim is to further enhance my skills and knowledge. I'm particularly focused on automating my social media accounts using Node.js.
+- **2023 Goals**: Learn game hacking and work on many side projects!
+
+#### Projects in Progress
+
+<details>
+<summary>Click to spand projects</summary>
+  
+```kt
+class MyPortfolio {
+    val username: String
+        get() = "IMXNOOBX"
+    
+    val currentLearning: List<String>
+        get() = listOf("C++", "C#", "Node.js", "Java", "kt", "Python")
+    
+    val goals2021: String
+        get() = "Learn as much as possible!"
+    
+    val goals2022: String
+        get() = "Automatize all my social media accounts"
+        
+    val goals2023: String
+        get() = "Make the biggest projects and lauch them to the stars!"
+   
+    val projects: List<Map<String, Any>>
+        get() = listOf(
+            mapOf(
+                "name" to "My Universe",
+                "description" to "Simple react portfolio for your GitHub repository",
+                "hype" to 70
+            ),
+            mapOf(
+                "name" to "future-project",
+                "description" to "The goal with this project is to provide a series of services made from scratch",
+                "hype" to 109
+            ),
+            mapOf(
+                "name" to "Others",
+                "description" to "Looking forward to making many other projects and expanding my knowledge with it."
+            )
+        )
+}
+
 ```
-     - Discord:   Unreleased  |  90%   | node.js
-     - Steam:     Steammy     | 100%   | node.js
-     - Twitter:   Twitty      |  100%  | node.js
-     - GitHub:    Twitty      |  100%  | node.js
-```
 
-<br>
-<br>
+</details>
 
-### Spotify Playing 🎧
-<div align="center">
+## Stats
+![](https://komarev.com/ghpvc/?username=IMXNOOBX&color=red&style=for-the-badge)
 
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=omiq07qfvusohy44bcpffdyua&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=omiq07qfvusohy44bcpffdyua&redirect=true)
-</div>
+[![](https://github-readme-stats.vercel.app/api?username=IMXNOOBX&show_icons=true&show_icons=true&title_color=7433FF&icon_color=bb2acf&text_color=b3b3ff&bg_color=0,000000,130F40&hide_border=true)]()
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=IMXNOOBX&title_color=7433FF&icon_color=bb2acf&text_color=b3b3ff&bg_color=0,000000,130F40&hide_border=true&layout=compact&hide=batchfile,c#)]()
 
-## Misc: 
+### My workspace
 
-<img align="left" alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-blue?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"/><br>
-<img align="left" alt="Visual Studio" src="https://img.shields.io/badge/-Visual%20Studio-blue?style=for-the-badge&logo=Visual%20Studio&logoColor=purple"/><br>
-<img align="left" alt="intellij" src="https://img.shields.io/badge/-Intellij%20IDA-blue?style=for-the-badge&logo=Intellij=white"/><br>
-<img align="left" alt="Node.js" src="https://img.shields.io/badge/-node.js-blue?style=for-the-badge&logo=javascript&logoColor=yellow"/><br>
-<img align="left" alt="CSharp" src="https://img.shields.io/badge/C%20Sharp-blue?style=for-the-badge&logo=C%20Sharp&logoColor=white"/><br>
-<img align="left" alt="cpp" src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=Cpp&logoColor=white"/><br>
-<img align="left" alt="java" src="https://img.shields.io/badge/Java-blue?style=for-the-badge&logo=Java&logoColor=white"/><br>
-<br>
-<br>
+![](https://img.shields.io/badge/-Visual%20Studio%20Code-000?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
+![](https://img.shields.io/badge/-Visual%20Studio-000?style=for-the-badge&logo=Visual%20Studio&logoColor=purple)
+![](https://img.shields.io/badge/Intellij%20Idea-000?logo=intellij-idea&style=for-the-badge)
+![](https://img.shields.io/badge/Github-000?logo=github&style=for-the-badge)
 
-<a>
-  <img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=IMXNOOBX&show_icons=true&hide_border=true&theme=tokyonight">
-  <img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IMXNOOBX&hide_border=true&theme=tokyonight&layout=compact&hide=batchfile">
-</a>
-<br>
+### Social
+
+[![](https://discord.c99.nl/widget/theme-4/652969127756955658.png)]()
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=omiq07qfvusohy44bcpffdyua&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=omiq07qfvusohy44bcpffdyua&redirect=true)
+
+### Donations
+
+If you want to support my projects, you can do it here <3
+
+[![Donate](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/itsxnoobx) [![Donate](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://ko-fi.com/imxnoobx)
