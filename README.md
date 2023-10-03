@@ -5,9 +5,7 @@
 
 ### About Me
 
-👋 Hi there! I'm a passionate learner and technology enthusiast, always eager to explore new horizons.
-
-🌱 **Currently Learning**: I'm on a journey to game hacking and , im interested in game hacking and learning.
+🌱 **Currently Learning**: I'm on a journey to learn game hacking and reverse engineering but im still a newbie.
 
 🚀 **Goals**:
 
