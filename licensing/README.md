@@ -6,7 +6,7 @@ This project is licensed under [**CC BY-NC 4.0**](https://creativecommons.org/li
 	• Share: Copy and redistribute the material in any medium or format.
 	• Adapt: Remix, transform, and build upon the material.
 + Under the following terms:
-	• Attribution: You must give appropriate credit, provide a link to original source, and indicate if changes were made.
+	• Attribution: You must give appropriate credit, provide a link to original the source repository, and indicate if changes were made.
 	• Non-Commercial: You may not use the material for commercial purposes.
 - You are not allowed to:
 	• Sell: This license forbids selling original or modified material for commercial purposes.
