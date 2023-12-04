@@ -15,49 +15,6 @@
 
 #### Projects in Progress
 
-<details>
-<summary>Click to spand projects</summary>
-  
-```kt
-class MyPortfolio {
-    val username: String
-        get() = "IMXNOOBX"
-    
-    val currentLearning: List<String>
-        get() = listOf("C++", "C#", "Node.js", "Java", "kt", "Python")
-    
-    val goals2021: String
-        get() = "Learn as much as possible!"
-    
-    val goals2022: String
-        get() = "Automatize all my social media accounts"
-        
-    val goals2023: String
-        get() = "Make the biggest projects and lauch them to the stars!"
-   
-    val projects: List<Map<String, Any>>
-        get() = listOf(
-            mapOf(
-                "name" to "My Universe",
-                "description" to "Simple react portfolio for your GitHub repository",
-                "hype" to 70
-            ),
-            mapOf(
-                "name" to "future-project",
-                "description" to "The goal with this project is to provide a series of services made from scratch",
-                "hype" to 109
-            ),
-            mapOf(
-                "name" to "Others",
-                "description" to "Looking forward to making many other projects and expanding my knowledge with it."
-            )
-        )
-}
-
-```
-
-</details>
-
 ## Stats
 ![](https://komarev.com/ghpvc/?username=IMXNOOBX&color=red&style=for-the-badge)
 
