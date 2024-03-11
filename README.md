@@ -1,4 +1,4 @@
-[![imxnoobx](https://cdn.discordapp.com/attachments/760822494419484672/1157331779196301352/nubsisito-alargao.png)](https://imxnoobx.com) 
+[![imxnoobx](./nubsisito-alargao.png)](https://imxnoobx.com) 
 
 
 #### "I'm here ready to learn <3"
