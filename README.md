@@ -14,7 +14,13 @@
 - **2023 Goals**: *Learn game hacking and work on many side projects!*
 - **2024 Goals**: Finish my biggest projects until now and develop many many more!
 
-#### Projects in Progress
+## Projects in Progress
+```js
+fstick:         "[■■■■■ ■■■■■ ■■■■■ ■■■■■ ■■■■■ ■■■■■ ■■■■■ □□□□□ □□□□□ □□□□□] 70%"
+future_project: "[■■■■■ ■■■■■ ■■■■■ ■■■■■ ■■■■■ ■■■■■ ■■■■■ ■■■■■ ■■■□□ □□□□□] 85%"
+ghost:          "[■■■■■ ■■■■■ ■■■■■ ■■■■■ ■■■■■ ■■■■■ ■■■■■ ■■■■■ ■■■■■ □□□□□] 90%"
+irl:            "[■■■■■ ■■■■■ □□□□□ □□□□□ □□□□□ □□□□□ □□□□□ □□□□□ □□□□□ □□□□□] 20%"
+```
 
 ## Stats
 ![](https://komarev.com/ghpvc/?username=IMXNOOBX&color=red&style=for-the-badge)
