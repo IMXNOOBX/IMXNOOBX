@@ -34,6 +34,8 @@ irl:            "[■■■■■ ■■■■■ □□□□□ □□□□�
 ![](https://img.shields.io/badge/-Visual%20Studio-000?style=for-the-badge&logo=Visual%20Studio&logoColor=purple)
 ![](https://img.shields.io/badge/Intellij%20Idea-000?logo=intellij-idea&style=for-the-badge)
 ![](https://img.shields.io/badge/Github-000?logo=github&style=for-the-badge)
+[![Languages](https://skillicons.dev/icons?i=nodejs,py,cpp,kotlin,cs)](https://skillicons.dev)
+
 
 ### Social
 [![Discord](https://discord.c99.nl/widget/theme-4/652969127756955658.png)](https://discord.com/channels/@me/652969127756955658)
